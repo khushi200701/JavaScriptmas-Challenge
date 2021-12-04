@@ -1,0 +1,102 @@
+:root {
+  --wine-red: #c7375f;
+  --bright-red: #d42d2f;
+  --dark-green: #344d2f;
+  --light-green: #77a047;
+  --gold: #fac57d;
+  --snow: #f0f4f7;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  color: var(--snow);
+  background: url("christmas.jpg");
+}
+
+.container {
+  min-width: 285px;
+  min-height: 200px;
+  max-width: 5ch;
+  background: var(--snow);
+  padding: 1em 2em;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+form {
+  display: flex;
+  gap: 15px;
+  padding-bottom: 15px;
+}
+
+.checklist {
+  color: darkred;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.checklist-item {
+  display: flex;
+  align-items: center;
+  margin: 0.3em;
+  width: 100%;
+  text-align: left;
+  font-weight: bold;
+}
+
+label {
+  margin-left: 0.25em;
+}
+
+input[type='checkbox']:checked + label {
+  text-decoration: line-through;
+  font-weight: normal;
+}
+
+.delete-btn {
+  margin-left: auto;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+#add-item-btn {
+  padding: 0.5em 1em;
+    border: none;
+    font-size: 15px;
+    background-color: var(--wine-red);
+    color: var(--snow);
+    border-radius: 99px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+#add-item-btn:hover {
+    cursor: pointer;
+    background-color: var(--bright-red);
+}
+
+.delete-btn:hover {
+  color: var(--wine-red);
+  font-weight: bold;
+}
+#add-item{
+    padding: 0.5em 1em;
+    border: none;
+    font-size: 15px;
+    color: darkred;
+    border-radius: 99px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+
+}
