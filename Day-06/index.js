@@ -35,7 +35,7 @@ function christmassifyName() {
     christmassifierBtn.textContent = "Christmassify";
     document.body.classList.remove("christmassified");
     audio.pause();
-    },10000);
+    },15000);
     // christmassifierBtn.textContent = "Christmassify";
     
    // Task:
