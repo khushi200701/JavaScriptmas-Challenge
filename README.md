@@ -6,3 +6,4 @@
 * Day-04: 🎁 Shopping Checklist : https://scrimba.com/scrim/co6184c14ad079c8a57c280a2
 * Day-05: ⭐️ Christmas Card Writer : https://scrimba.com/scrim/coc3a44aeaeedd25438e4f4ed
 * Day-06: ✨ Text Christmassifier : https://scrimba.com/scrim/cof004eb8bc6dddbe3a9338bf
+* Day-07: 🎺 Play a Christmas Song : https://scrimba.com/scrim/cofa94bb7ae0d0ac4da38ccfa
