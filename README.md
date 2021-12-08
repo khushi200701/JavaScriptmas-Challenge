@@ -7,3 +7,4 @@
 * Day-05: ⭐️ Christmas Card Writer : https://scrimba.com/scrim/coc3a44aeaeedd25438e4f4ed
 * Day-06: ✨ Text Christmassifier : https://scrimba.com/scrim/cof004eb8bc6dddbe3a9338bf
 * Day-07: 🎺 Play a Christmas Song : https://scrimba.com/scrim/cofa94bb7ae0d0ac4da38ccfa
+* Day-08: 🔔 Bell Animator : https://scrimba.com/scrim/co0bd4f8480c503259b3cb391
