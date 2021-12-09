@@ -8,3 +8,4 @@
 * Day-06: ✨ Text Christmassifier : https://scrimba.com/scrim/cof004eb8bc6dddbe3a9338bf
 * Day-07: 🎺 Play a Christmas Song : https://scrimba.com/scrim/cofa94bb7ae0d0ac4da38ccfa
 * Day-08: 🔔 Bell Animator : https://scrimba.com/scrim/co0bd4f8480c503259b3cb391
+* Day-09: 🤴 Turn on the Decorations : https://scrimba.com/scrim/cofb74e0daa4f77b3972ce270
