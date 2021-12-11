@@ -9,3 +9,4 @@
 * Day-07: 🎺 Play a Christmas Song : https://scrimba.com/scrim/cofa94bb7ae0d0ac4da38ccfa
 * Day-08: 🔔 Bell Animator : https://scrimba.com/scrim/co0bd4f8480c503259b3cb391
 * Day-09: 🤴 Turn on the Decorations : https://scrimba.com/scrim/cofb74e0daa4f77b3972ce270
+* Day-10: 💂 Festivity Loader : https://scrimba.com/scrim/co27b42ce9b2cda70d2f63536
