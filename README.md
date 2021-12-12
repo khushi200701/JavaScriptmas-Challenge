@@ -11,3 +11,4 @@
 * Day-09: 🤴 Turn on the Decorations : https://scrimba.com/scrim/cofb74e0daa4f77b3972ce270
 * Day-10: 💂 Festivity Loader : https://scrimba.com/scrim/co27b42ce9b2cda70d2f63536
 * Day-11: 🧚 Christmas Carousel : https://scrimba.com/scrim/cof294ce0ae25c5db1ff3afc4
+* Day-12: 🐑 Christmas Guest List : https://scrimba.com/scrim/coabd4bdebcebd38ce4a9ecce
