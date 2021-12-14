@@ -17,3 +17,5 @@
 | Day-11 | 🧚 Christmas Carousel | https://scrimba.com/scrim/cof294ce0ae25c5db1ff3afc4 |
 | Day-12 | 🐑 Christmas Guest List | https://scrimba.com/scrim/coabd4bdebcebd38ce4a9ecce |
 | Day-13 | 🦃 Christmas Dinner Calculator | https://scrimba.com/scrim/coe214e6cb844e810c1b4d365 |
+| Day-14 | 🧝 Lonely Elf | https://scrimba.com/scrim/cofaf4ab1bd75739ce11ee665 |
+
