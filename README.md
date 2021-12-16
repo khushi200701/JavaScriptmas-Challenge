@@ -1,5 +1,5 @@
 # JavaScriptmas-Challenge from Scrimba
-### Use the following links to quickly see the code and working demo:
+### Use the following links to see the code and working demo simultaneously:
 
 
 | Day | Challenge Name  | Link to the Scrim | 
@@ -19,4 +19,5 @@
 | Day-13 | 🦃 Christmas Dinner Calculator | https://scrimba.com/scrim/coe214e6cb844e810c1b4d365 |
 | Day-14 | 🧝 Lonely Elf | https://scrimba.com/scrim/cofaf4ab1bd75739ce11ee665 |
 | Day-15 | 🐪 Festive Translator | https://scrimba.com/scrim/co99e493a85c8195a0ff1da19 |
+| Day-16 | 📺 Christmas Movie Selector | https://scrimba.com/scrim/co9024a848b03c0b9ee1ddb3b |
 
