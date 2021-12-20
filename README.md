@@ -20,4 +20,8 @@
 | Day-14 | 🧝 Lonely Elf | https://scrimba.com/scrim/cofaf4ab1bd75739ce11ee665 |
 | Day-15 | 🐪 Festive Translator | https://scrimba.com/scrim/co99e493a85c8195a0ff1da19 |
 | Day-16 | 📺 Christmas Movie Selector | https://scrimba.com/scrim/co9024a848b03c0b9ee1ddb3b |
+| Day-17 | 💌 Naughty List, Nice List | https://scrimba.com/scrim/co1f54983b245de85d2bd1e34 |
+| Day-18 | 🧦 Custom Shopping Checkboxes | https://scrimba.com/scrim/co9664ce1950f136e9632f8df |
+| Day-19 | 🍨 Dessert Decider | https://scrimba.com/scrim/co7a74c12b4cbb1c82b867b37 |
+| Day-20 | ☃️ Snowman Customiser | https://scrimba.com/scrim/co70b4a04b36bc775739b747d |
 
