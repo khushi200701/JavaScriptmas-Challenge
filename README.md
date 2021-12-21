@@ -24,4 +24,5 @@
 | Day-18 | 🧦 Custom Shopping Checkboxes | https://scrimba.com/scrim/co9664ce1950f136e9632f8df |
 | Day-19 | 🍨 Dessert Decider | https://scrimba.com/scrim/co7a74c12b4cbb1c82b867b37 |
 | Day-20 | ☃️ Snowman Customiser | https://scrimba.com/scrim/co70b4a04b36bc775739b747d |
+| Day-21 | 🦌 Reindeer Speedometer | https://scrimba.com/scrim/cod5a48bebf162c44ae2647cd |
 
