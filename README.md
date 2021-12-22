@@ -25,4 +25,5 @@
 | Day-19 | 🍨 Dessert Decider | https://scrimba.com/scrim/co7a74c12b4cbb1c82b867b37 |
 | Day-20 | ☃️ Snowman Customiser | https://scrimba.com/scrim/co70b4a04b36bc775739b747d |
 | Day-21 | 🦌 Reindeer Speedometer | https://scrimba.com/scrim/cod5a48bebf162c44ae2647cd |
+| Day-22 | 🧸 Christmas Stress Buster | https://scrimba.com/scrim/coc2c4b3a825f70d14214bce7 |
 
