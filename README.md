@@ -27,4 +27,5 @@
 | Day-21 | 🦌 Reindeer Speedometer | https://scrimba.com/scrim/cod5a48bebf162c44ae2647cd |
 | Day-22 | 🧸 Christmas Stress Buster | https://scrimba.com/scrim/coc2c4b3a825f70d14214bce7 |
 | Day-23 | 🕊 Customisable Santa Sign | https://scrimba.com/scrim/co291422eaee4f5f90e726a04 |
+| Day-24 | 🎅 Sleigh Launcher | https://scrimba.com/scrim/co5bf43dea24faa82ed2c6ec5 |
 
